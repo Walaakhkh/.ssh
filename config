@@ -1,0 +1,4 @@
+Host web-01
+	HostName 3.85.54.219
+	Port     22
+	User     ubuntu
